@@ -1,3 +1,7 @@
+streamlit
+nltk
+pandas
+matplotlib
 boltons @ file:///home/conda/feedstock_root/build_artifacts/boltons_1733827268945/work
 Brotli @ file:///Users/runner/miniforge3/conda-bld/brotli-split_1725267563793/work
 certifi @ file:///home/conda/feedstock_root/build_artifacts/certifi_1746569525376/work/certifi
