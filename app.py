@@ -8,8 +8,8 @@ import string
 import time
 import re
 
-nltk.download('punkt')
-nltk.download('stopwords')
+#nltk.download('punkt')
+#nltk.download('stopwords')
 
 st.title("Mini Text Analyzer By Aishwarya")
 st.markdown("This tool analyzes your text input and gives word count, sentence count, and frequent word stats.")
